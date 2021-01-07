@@ -1,6 +1,6 @@
 # Olá, Mundo
  Exemplos guanabara
 
- Repositório feito no curso em vídeo
+ **Repositório feito no curso em vídeo**
  
- Essa linha ta diferente
+ *Essa linha ta diferente*
